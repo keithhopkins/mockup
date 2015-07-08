@@ -1,0 +1,28 @@
+ul {
+  list-style-type: none;
+  color: violet;
+}
+nav ul {
+  border: solid;
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+nav li {
+  display: inline;
+  padding-left: 10px;
+}
+h1 {
+  color: orange;
+  font-weight: normal;
+}
+input {
+  border: solid;
+}
+button {
+  background-color: orange;
+  border: solid;
+}
+#side li{
+  display: inline;
+}
