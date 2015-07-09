@@ -22,7 +22,7 @@ input {
 button {
   background-color: orange;
   border: solid;
-  box-shadow: 5px 5px 5px black;
+  box-shadow: 5px 5px 2px black;
 }
 #side li{
   display: inline;
